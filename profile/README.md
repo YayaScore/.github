@@ -1,6 +1,8 @@
 # YAYA Score
 
-![YAYA Score Logo](https:://github.com/YayaScore/.github/blob/main/docs/logo.png)
+<p align="center">
+  <img src="https://github.com/YayaScore/.github/blob/main/docs/logo.png" alt="Logo">
+</p>
 
 Bem-vindo ao YAYA Score, a plataforma revolucionária que está transformando o mundo dos microempréstimos. Nosso foco principal é o Score, fornecendo uma maneira inovadora de avaliar a confiabilidade das pessoas na blockchain.
 
